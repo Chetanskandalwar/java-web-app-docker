@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Dilip Dugad Darbar, chandrapur 442402,.</h2>
+			<h2>Welcome To Chetan kandalwar Darbar, chandrapur 442402,.</h2>
 			<h3>Contact @ +91-9021405606,+91-7020</h3>
 		</div>	
 	</div>
