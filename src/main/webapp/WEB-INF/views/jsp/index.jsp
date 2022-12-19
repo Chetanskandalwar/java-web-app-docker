@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 20022</p>
+		<p>&copy; Chetan Technologies 20022</p>
 	</footer>
 </div>
 
